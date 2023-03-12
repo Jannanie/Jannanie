@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Janna
-- :heart_decoration: I’m interested in loud music, hydroponics, mountain biking the hard way.
+- :heart_decoration: I’m interested in loud music, mountain biking the hard way.
 - 🌱 I’m currently learning to become more skilled in frontend stuff (React, Vue.js, TypeScript, Sass etc.)
 - 📫 How to reach me: send me a message via email janoshkin@protonmail.com, find me in LinkedIn.
 
